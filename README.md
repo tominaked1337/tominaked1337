@@ -2,6 +2,11 @@
 
 :email: > [perezrebotomas@gmail.com]
 
+## Download CV
+[<a download="CV Tomas Perez.pdf" href="https://github.com/tominaked1337/curriculum_vitae/blob/main/CV%20Tom%C3%A1s%20Perez.pdf" title="Curriculum Vitae">
+    <img alt="Curriculum Vitae" src="https://github.com/tominaked1337/curriculum_vitae/blob/main/CV%20Tom%C3%A1s%20Perez.pdf">
+</a>]
+
 ## Tech enthusiast and student.
 
 - 🐍 I’m currently learning Django.
@@ -11,7 +16,7 @@
 
 ### Youtube Music Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/martinreboredo96)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Youtube Music Now Playing" width="350" />](https://music.youtube.com/channel/UCwEczApJj_hb_OKZlur74qQ?feature=share)
 
 ### Connect with me:
 
@@ -46,7 +51,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-six-rose.vercel.app/api?username=tominaked1337&show_icons=true&hide_border=true" />
+  <img align="left" alt="tominaked1337's GitHub Stats" src="https://github-readme-stats-six-rose.vercel.app/api?username=tominaked1337&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -55,7 +60,4 @@
 [youtube]: https://www.youtube.com/channel/UCwEczApJj_hb_OKZlur74qQ
 [instagram]: https://www.instagram.com/tominaked/
 [linkedin]: https://www.linkedin.com/in/tom%C3%A1s-perez-122645178/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
