@@ -1,8 +1,8 @@
-### Hi there, I'm Tomás👋
+## Hi there, I'm Tomás👋
 
 :email: > [perezrebotomas@gmail.com]
 
-## Tech enthusiast and student.
+### Tech enthusiast and student.
 
 - 🐍 I’m currently learning Django.
 - 🧑‍🤝‍🧑 I’m looking to collaborate with open source projects.
@@ -20,7 +20,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-## Download CV
+<br />
+
+### Download CV
 [<a href="https://github.com/tominaked1337/curriculum_vitae/blob/main/CV%20Tom%C3%A1s%20Perez.pdf" title="Curriculum Vitae" target="_blank">Curriculum Vitae</a>]
 
 <br />
