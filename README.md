@@ -21,7 +21,6 @@
 ### Download CV
 [<a href="https://github.com/tominaked1337/curriculum_vitae/blob/main/CV%20Tom%C3%A1s%20Perez.pdf" title="Curriculum Vitae" target="_blank">Curriculum Vitae</a>]
 
-<br />
 
 ### Languages and Tools:
 
