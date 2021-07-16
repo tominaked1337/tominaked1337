@@ -6,7 +6,7 @@
 
 - 🐍 I’m currently learning Django.
 - 🧑‍🤝‍🧑 I’m looking to collaborate with open source projects.
-- 🖥️ I'm currently working for Citibank.
+- 🖥️ I'm currently working as DBA for Rappi LatAm.
 - ⚡ I love music, biking and technology.
 
 ### Connect with me:
