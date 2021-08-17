@@ -6,7 +6,7 @@
 
 - 🐍 I’m currently learning Django.
 - 🧑‍🤝‍🧑 I’m looking to collaborate with open source projects.
-- 🖥️ I'm currently working as DBA for Rappi LatAm.
+- 🖥️ I'm currently working as Cloud DBA (DevOps) for Rappi.
 - ⚡ I love music, biking and technology.
 
 ### Connect with me:
@@ -40,13 +40,6 @@
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
 <br />
-<br />
-
-### Youtube Music Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Youtube Music Now Playing" width="350" />](https://music.youtube.com/channel/UCwEczApJj_hb_OKZlur74qQ?feature=share)
-
-<br />
-
 ---
 
 <details>
